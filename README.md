@@ -6,7 +6,7 @@ Will use <i>quotes</i> from childhood show to finish tasks below.
     <li><u><b>h3 tag</b></u> with <b>blue text</b> that says <i>"What makes you think you can be Dirty Dan?"</i>
     <li><u><b>div</b></u> with  <b>black border</b> and <b>pink background color</b> with the following elements inside of it:
     <ol type='a'>
-        <li><u><b>h1 tag</b></u> that says <i>"I'm dirty."</i><
+        <li><u><b>h1 tag</b></u> that says <i>"I'm dirty."</i>
         <li><u><b>p tag</b></u> that says <i>"I'd say I'm Dirty Dan!"</i>
     </ol>
 </ol>
