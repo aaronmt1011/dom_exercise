@@ -1,5 +1,5 @@
 <h1>DOM Exercise</h1>
-Have to use a template provided by Odin Project to add content using <b>DOM methods<b> that I learned.
+Have to use a template provided by Odin Project to add content using <b>DOM methods</b> that I learned.
 Will use <i>quotes</i> from childhood show to finish tasks below. 
 
 1) <u><b>p tag</b></u> with <b>red text</b> that says <i>"Who you callin' Pinhead? I wanna be Dirty Dan!"</i>
